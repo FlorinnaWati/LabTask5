@@ -1,0 +1,14 @@
+c:\users\huawei\documents\visual studio 2015\Projects\Lab5\Lab5\bin\Debug\Lab5.exe.config
+c:\users\huawei\documents\visual studio 2015\Projects\Lab5\Lab5\bin\Debug\Lab5.exe
+c:\users\huawei\documents\visual studio 2015\Projects\Lab5\Lab5\bin\Debug\Lab5.pdb
+c:\users\huawei\documents\visual studio 2015\Projects\Lab5\Lab5\bin\Debug\Lab5.xml
+c:\users\huawei\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.vbprojResolveAssemblyReference.cache
+c:\users\huawei\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+c:\users\huawei\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.Resources.resources
+c:\users\huawei\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.vbproj.GenerateResource.Cache
+c:\users\huawei\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.exe
+c:\users\huawei\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.xml
+c:\users\huawei\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\HUAWEI\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.frmCharacter.resources
+C:\Users\HUAWEI\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.frmCharacterThree.resources
+C:\Users\HUAWEI\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.frmCharacterTwo.resources
